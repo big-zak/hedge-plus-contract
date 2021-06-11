@@ -1,2 +1,1 @@
-# hedge-plus-contract
- 
+# HedgePlus-Smartcontract
